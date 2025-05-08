@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_Черно-белый);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        mix-blend-mode: color-dodge;
+        opacity: .5;
+      }
+
+      .cls-4 {
+        fill: #3e00ff;
+      }
+
+      .cls-2 {
+        fill: url(#_Черно-белый-2);
+      }
+
+      .cls-5 {
+        fill: #ff4e00;
+      }
+
+      .cls-3 {
+        fill: url(#_Безымянный_градиент_5);
+      }
+
+      .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-7 {
+        fill: #00ff0c;
+      }
+    </style>
+    <linearGradient id="_Черно-белый" data-name="Черно-белый" x1="373.24" y1="638.19" x2="781.34" y2="638.19" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <linearGradient id="_Безымянный_градиент_5" data-name="Безымянный градиент 5" x1="781.34" y1="778.31" x2="1283.59" y2="778.31" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".11" stop-color="#2b2b2b"/>
+      <stop offset=".3" stop-color="#6a6a6a"/>
+      <stop offset=".47" stop-color="#9f9f9f"/>
+      <stop offset=".64" stop-color="#c8c8c8"/>
+      <stop offset=".78" stop-color="#e6e6e6"/>
+      <stop offset=".91" stop-color="#f8f8f8"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="_Черно-белый-2" data-name="Черно-белый" x1="1283.59" y1="540" x2="2138.96" y2="540" xlink:href="#_Черно-белый"/>
+  </defs>
+  <g class="cls-6">
+    <g id="_Слой_1" data-name="Слой 1">
+      <polygon points="0 804.39 0 879.83 373.24 504.7 373.24 496.67 0 804.39"/>
+      <polygon class="cls-4" points="373.24 504.7 781.34 779.71 781.34 623.93 373.24 496.67 373.24 504.7"/>
+      <polygon class="cls-5" points="781.34 623.93 781.34 779.71 1283.59 960.63 1283.59 595.99 781.34 623.93"/>
+      <polygon class="cls-7" points="1283.59 595.99 1283.59 960.63 2138.96 129.61 2138.96 119.37 1283.59 595.99"/>
+      <polygon points="0 804.39 0 879.83 373.24 504.7 373.24 496.67 0 804.39"/>
+      <polygon class="cls-1" points="373.24 504.7 781.34 779.71 781.34 623.93 373.24 496.67 373.24 504.7"/>
+      <polygon class="cls-3" points="781.34 623.93 781.34 779.71 1283.59 960.63 1283.59 595.99 781.34 623.93"/>
+      <polygon class="cls-2" points="1283.59 595.99 1283.59 960.63 2138.96 129.61 2138.96 119.37 1283.59 595.99"/>
+    </g>
+  </g>
+</svg>

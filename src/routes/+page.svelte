@@ -180,6 +180,7 @@ section
 	position: absolute
 	inset: 0
 	z-index: -1
+	opacity: 0.2
 
 #header-buttons
 	display: flex
